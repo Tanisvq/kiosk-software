@@ -1,2 +1,2 @@
-# kiosk-software
-just a helping desk for a project
+# kiosk_software
+
